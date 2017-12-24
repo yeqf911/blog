@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: 村里的酒馆
+subtitle: 人生没有意义，但很有意思
 description:
-author: John Doe
-language:
-timezone:
+author: 太阳尚远
+language: zh
+timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://yeqianfeng.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
